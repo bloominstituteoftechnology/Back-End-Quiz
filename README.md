@@ -34,3 +34,4 @@
   const Thing = mongoose.model('Thing', MySchema);
   ```
   * Feel free to use Resources. But don't reference any old code you've written. Google and the interwebs will suffice for you to find the information you need. PLEASE DO NOT: Copy and paste solutions to your file. 
+  * ** It also may be a good idea to test your server with Postman before submitting the challenge. 
